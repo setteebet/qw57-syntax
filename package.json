@@ -1,0 +1,18 @@
+{
+  "name": "qw57-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวย95095✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวย95095",
+"คาสิโนหวย 24",
+"เว็บหวย lottovip",
+"เว็บหวยลาว",
+"เวฟซื้อหวย lottovip"
+],
+  "repository": "https://github.com/setteebet/qw57-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
